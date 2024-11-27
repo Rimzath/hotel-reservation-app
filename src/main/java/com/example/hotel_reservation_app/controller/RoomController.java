@@ -1,6 +1,6 @@
 package com.example.hotel_reservation_app.controller;
 
-import ch.qos.logback.core.model.Model;
+import org.springframework.ui.Model;
 import com.example.hotel_reservation_app.entity.Room;
 import com.example.hotel_reservation_app.service.RoomService;
 import org.springframework.beans.factory.annotation.Autowired;
